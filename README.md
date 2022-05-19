@@ -1,4 +1,4 @@
-# RETAIL-SALES-ANALYSIS-POWERBI
+# RETAIL SALES ANALYSIS-POWERBI
 
 This dataset contains historical data of three cities in Myanmar  for a retail company, here we are going to descriptive analysis of the data set and give insights. This dataset contains data for 3 months. The questions to be answered
 
